@@ -1,0 +1,27 @@
+Keyword: kashmir tourist places
+Tool: Google Keyword Planner
+
+goal
+- publish the page
+- check in 
+
+find out user intent
+    - list of places
+        - photo
+        - people like dislike
+        - time taken to cover
+        - any ticket riquired
+        - timing open 
+        - difficulty level
+
+
+Content of the page
+
+
+Call to action
+ post your query
+
+add comment section
+
+based on the stay time on the website
+    show additional content
